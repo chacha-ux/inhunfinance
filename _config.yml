@@ -34,12 +34,6 @@ search:
 color_scheme: light
 heading_anchors: true
 
-# 좌측 사이드바 상단의 외부 링크
-nav_external_links:
-  - title: 사이버범죄 신고 (ECRM)
-    url: https://ecrm.police.go.kr
-    hide_icon: false
-
 # 푸터 문구
 footer_content: >-
   © 2026 서울대학교 글로벌사회공헌단 인헌중학교 금융교육팀 ·
