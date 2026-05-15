@@ -7,13 +7,11 @@ description: 서울대학교 글로벌사회공헌단 사회공헌활동 — 인
 remote_theme: just-the-docs/just-the-docs
 
 # -----------------------------------------------------
-# IMPORTANT: GitHub Pages에 올릴 때
-#  - 만약 저장소 이름이 "username.github.io" 라면 baseurl 을 비워두세요.
-#  - 만약 저장소 이름이 다른 이름이라면 (예: finance-edu),
-#    baseurl 을 "/finance-edu" 처럼 저장소 이름으로 설정하세요.
+# 사이트 주소 설정
+#   https://chacha-ux.github.io/inhunfinance/  에 맞춤
 # -----------------------------------------------------
-url: ""
-baseurl: ""
+url: "https://chacha-ux.github.io"
+baseurl: "/inhunfinance"
 
 permalink: pretty
 
@@ -71,9 +69,6 @@ exclude:
   - vendor/
   - .gitignore
 
-# -----------------------------------------------------
-# 컬렉션 / 기본값
-# -----------------------------------------------------
 defaults:
   - scope:
       path: ""
